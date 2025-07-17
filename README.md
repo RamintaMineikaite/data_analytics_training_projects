@@ -1,6 +1,9 @@
 # Road Accident Analysis – Power BI Project
 This project is part of my Data Analytics portfolio, focusing on building a comprehensive Road Accident Dashboard using Power BI. The dashboard presents actionable insights from accident data across 2021 and 2022, helping stakeholders understand trends, patterns, and key metrics for improved decision-making.
 
+## Dashboard
+Power BI project file "Road_accident_analysis.pbix" is stored here: https://github.com/RamintaMineikaite/data_analytics_training_projects/blob/main/ 
+
 ## Problem Statement
 This dashboard helps government agencies, city planners, and public safety officials better understand the patterns and causes of road accidents. It provides insights into the total number of accidents and casualties, enabling stakeholders to identify high-risk areas, dangerous road types, and critical time periods when accidents are most likely to occur.
 
