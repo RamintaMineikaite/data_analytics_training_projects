@@ -89,11 +89,17 @@ Following DAX expression was written:
 - Step 21: A donut chart visual was used to represent CY casualties by Day and Night time.
 
 ![Casualties-daylight image](/assets/Casualties-Day-night.png)
+
 - Step 22: A bar chart was also added to the report design area representing the number of casualties by road type.
+
 ![Casualties-roadtype image](/assets/Casualties-roadtype.png)
+
 - Step 23: A map was used to visualize casualties by location.
+
 ![Casualties-location image](/assets/casualties-location.png)
+
 - Step 24: Visual filters (Slicers) were added for two fields named "Weather Continions" & "Road Surface".
+
 ![Slicer image](/assets/Slicer.png)
 
  # Report Snapshot (Power BI DESKTOP)
